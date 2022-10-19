@@ -3,4 +3,4 @@ Desenvolvimento de uma aplicação desktop para visualização tridimensional de
 
 Tecnologias utilizadas:
 
-java - 17.0.4.1
+Java - 17.0.4.1
